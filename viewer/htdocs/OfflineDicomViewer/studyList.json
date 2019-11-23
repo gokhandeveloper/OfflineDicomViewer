@@ -1,0 +1,24 @@
+[
+  {
+    "date_of_birth": "00000000",
+    "claimVerification": null,
+    "description": null,
+    "accession_no": null,
+    "study_status": 0,
+    "institution": "x",
+    "seriesUID": "1.3.6.1.4.1.19179.2.1124211101284520.1.9662.2310",
+    "referenceNumber": null,
+    "patient_pk": "128988",
+    "patient_name": "anon",
+    "studyUID": "1.3.6.1.4.1.19179.2.1124211101284520.1.9662.2310",
+    "number_of_instance": "10",
+    "study_mods": "DX",
+    "study_pk": "159895",
+    "services": null,
+    "patient_sex": "O",
+    "patient_id": "128319",
+    "study_process": false,
+    "attach_doc_ids": null,
+    "study_datetime": "2019-11-21 13:37:20"
+  }
+]
