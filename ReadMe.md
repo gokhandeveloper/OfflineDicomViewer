@@ -1,4 +1,4 @@
-##What is it & why?
+## What is it & why?
 
 Portable HTML5 DICOM Viewer.
 
@@ -11,7 +11,7 @@ It also comes bundled with Chromium(Open sourced version of Google Chrome) which
 It has its own small web server(Windows only at the moment). I will add the Mac version as well.
 
 
-##How it works:
+## How it works:
 
 Drop DICOM files in the digital folder.
 Edit the studies/crstudy.json file to match with the DICOM object uids(see the sample files).
