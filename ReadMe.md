@@ -7,7 +7,7 @@ It is also not possible to use DICOM files in the web browser without the Wado p
 I came up with a local HTTP server solution which serves these DICOM files using the CornerstoneWaDoImageLoader library.
 It does not require internet connection(hence the name offline and portable).
 It also comes bundled with Chromium(Open sourced version of Google Chrome) which Cornerstone recommends to use while viewing DICOM files.
-(please download this from Chromium project).
+(please download this from Chromium project into viewer/apps folder).
 It has its own small web server(Windows only at the moment). I will add the Mac version as well.
 
 
