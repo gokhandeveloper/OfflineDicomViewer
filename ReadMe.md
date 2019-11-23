@@ -1,4 +1,4 @@
-What is it & why?
+##What is it & why?
 
 Portable HTML5 DICOM Viewer.
 
@@ -11,7 +11,7 @@ It also comes bundled with Chromium(Open sourced version of Google Chrome) which
 It has its own small web server(Windows only at the moment). I will add the Mac version as well.
 
 
-How it works:
+##How it works:
 
 Drop DICOM files in the digital folder.
 Edit the studies/crstudy.json file to match with the DICOM object uids(see the sample files).
@@ -20,10 +20,17 @@ Initialise the viewer by clicking on the windows-autorun.bat file.
 It will launch the already included chromium browser and will load the viewer & the study automatically.
 If the viewer window is closed, it will also shut the http server down.
 
+
+
+## Built With Love
+
+* [Webstorm](https://www.jetbrains.com/webstorm/) - IDE used
+
 This project would not be possible without:
-Cornerstone
-Cornerstone Tools
-Cornerstone Demo
-Cornerstone WadoImageLoader
-Chromium project
-Simple web server
+
+* [Cornerstone](https://github.com/cornerstonejs/cornerstone)
+* [Cornerstone Tools](https://github.com/cornerstonejs/cornerstoneTools)
+* [Cornerstone Demo](http://chafey.github.io/cornerstoneDemo/)
+* [Cornerstone WadoImageLoader](https://github.com/cornerstonejs/cornerstoneWADOImageLoader)
+* [Chromium project](https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html) - Download the chromium of the platform of your choice
+* [Miniweb](https://sourceforge.net/projects/miniweb/)
